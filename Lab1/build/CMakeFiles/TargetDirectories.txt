@@ -1,0 +1,3 @@
+/home/s5605094/Desktop/CFGAA/Lab1/build/CMakeFiles/hello.dir
+/home/s5605094/Desktop/CFGAA/Lab1/build/CMakeFiles/edit_cache.dir
+/home/s5605094/Desktop/CFGAA/Lab1/build/CMakeFiles/rebuild_cache.dir

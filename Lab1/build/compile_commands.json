@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/s5605094/Desktop/CFGAA/Lab1/build",
+  "command": "/opt/rh/gcc-toolset-13/root/usr/bin/g++ -isystem /public/devel/24-25/vcpkg/installed/x64-linux/include -g -std=gnu++17 -o CMakeFiles/hello.dir/main.cpp.o -c /home/s5605094/Desktop/CFGAA/Lab1/main.cpp",
+  "file": "/home/s5605094/Desktop/CFGAA/Lab1/main.cpp",
+  "output": "CMakeFiles/hello.dir/main.cpp.o"
+}
+]
